@@ -39,3 +39,74 @@ nav ul li a{
     font-weight: bold;
     text-transform: uppercase;
 }
+.detel a{
+    padding: 10px 18px;
+background-color: white;
+color: black;
+transition: 0.3s;
+text-decoration: none;
+font-weight: bold;
+display: inline-block;
+border-radius: 28px;
+}
+
+.container{
+    margin: 10px 20px;
+    position: relative;
+    width: 84%;
+    margin: auto;
+    padding: 70px 0;
+}
+
+.servisebi1{
+    display: inline-block;
+    position: relative;
+    margin: 10px 20px;
+}
+.servisebi2{
+    display: inline-block;
+    position: relative;
+    margin: 10px 20px;
+}
+.servisebi3{
+    display: inline-block;
+    position: relative;
+    margin: 10px 20px;
+}
+.yvela-servisi-ertad{
+    display: flex;
+    justify-content: space-between;
+}
+h3{
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: 32px;
+}
+h4{
+    font-weight: bold;
+    font-size: 22px;
+}
+p{
+    font-size: 16px;
+}
+.square1{
+    width: 50px;
+    height: 50px;
+    background-color: #F9F9F9;
+    margin-top: 40px;
+    border-radius: 5cqi;
+}
+.square2{
+    width: 50px;
+    height: 50px;
+    background-color: #0A22F4;
+    margin-top: 40px;
+    border-radius: 5px;
+}
+.square3{
+    width: 50px;
+    height: 50px;
+    background-color: #F9F9F9;
+    margin-top: 40px;
+    border-radius: 5px;
+}
